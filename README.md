@@ -1,7 +1,7 @@
 # Vertrical QA Challenge
 This repository contains all the artifacts created by Oliveiros Neto related to the challenge for the position of QA at Vertrical.
 
-### Prototype tests scenarious
+### Prototype tests scenarios
 The test cases for the prototype presented are listed and described in the following document:
 ```
 https://docs.google.com/document/d/1lRXSkydeaETtxOZIsbOb4vYgWnRWF5D1OUdEu1mxlGo/edit?usp=sharing
