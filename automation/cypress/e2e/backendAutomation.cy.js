@@ -5,7 +5,7 @@ import { MAIN_ENDPOINT, USER_1_ENDPOINT } from "../constants/Miscellaneous"
 
 describe('Backend automation scenarious', () => {
 
-    it('GET existent test', () => {
+    it('GET existent user test', () => {
         cy.request('GET', USER_1_ENDPOINT).then( (response) => {
             expect(response.status).to.eq(200);
             expect(response.body.name).to.eq(ALREADY_INSERTED_USER.name);
