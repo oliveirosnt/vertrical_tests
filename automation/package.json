@@ -1,0 +1,24 @@
+{
+  "name": "vertrical_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveirosnt/vertrical_tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveirosnt/vertrical_tests/issues"
+  },
+  "homepage": "https://github.com/oliveirosnt/vertrical_tests#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^13.6.4",
+    "cypress-xpath": "^2.0.1"
+  }
+}
