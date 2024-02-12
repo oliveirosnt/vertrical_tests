@@ -29,6 +29,13 @@ frontendAutomation.cy.js
 ```
 -   Just click on the file you want, and the tests of the file should run.
 
+### Running in headless mode
+- Go to the **vertrical_tests/automation/** folder.
+-   Run the command to run the tests:
+```
+npx cypress run
+```
+
 ### Frontend tests
 -   Dynamic element test.
 -   Challenging DOM test.
